@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # 💎 ELHIBA
@@ -143,3 +144,7 @@ Concevoir une application web e-commerce complète respectant les exigences du m
 ## 
 
 Ce projet a été réalisé dans un cadre pédagogique pour mettre en pratique les compétences acquises en développement web avec Laravel.
+=======
+# elhiba
+ELHIBA est un projet de site e-commerce dédié à la vente de bijoux pour femmes, développé dans le cadre du module **Technologie Web 2** avec Laravel.   Cette plateforme permet aux utilisatrices de découvrir, consulter et acheter des bijoux en ligne via une interface moderne, intuitive et responsive.
+>>>>>>> 1efcc48c18ba09a205de84196dfee9bfe63740e0
